@@ -1,0 +1,22 @@
+C:\My Codes\Vb.net codes\Castillo Brgy Management\Castillo Brgy Management\bin\Debug\net8.0-windows\Castillo Brgy Management.exe
+C:\My Codes\Vb.net codes\Castillo Brgy Management\Castillo Brgy Management\bin\Debug\net8.0-windows\Castillo Brgy Management.deps.json
+C:\My Codes\Vb.net codes\Castillo Brgy Management\Castillo Brgy Management\bin\Debug\net8.0-windows\Castillo Brgy Management.runtimeconfig.json
+C:\My Codes\Vb.net codes\Castillo Brgy Management\Castillo Brgy Management\bin\Debug\net8.0-windows\Castillo Brgy Management.dll
+C:\My Codes\Vb.net codes\Castillo Brgy Management\Castillo Brgy Management\bin\Debug\net8.0-windows\Castillo Brgy Management.pdb
+C:\My Codes\Vb.net codes\Castillo Brgy Management\Castillo Brgy Management\obj\Debug\net8.0-windows\Castillo_Brgy_Management.Form1.resources
+C:\My Codes\Vb.net codes\Castillo Brgy Management\Castillo Brgy Management\obj\Debug\net8.0-windows\Castillo_Brgy_Management.Resources.resources
+C:\My Codes\Vb.net codes\Castillo Brgy Management\Castillo Brgy Management\obj\Debug\net8.0-windows\Castillo Brgy Management.vbproj.GenerateResource.cache
+C:\My Codes\Vb.net codes\Castillo Brgy Management\Castillo Brgy Management\obj\Debug\net8.0-windows\Castillo Brgy Management.GeneratedMSBuildEditorConfig.editorconfig
+C:\My Codes\Vb.net codes\Castillo Brgy Management\Castillo Brgy Management\obj\Debug\net8.0-windows\Castillo Brgy Management.AssemblyInfoInputs.cache
+C:\My Codes\Vb.net codes\Castillo Brgy Management\Castillo Brgy Management\obj\Debug\net8.0-windows\Castillo Brgy Management.AssemblyInfo.vb
+C:\My Codes\Vb.net codes\Castillo Brgy Management\Castillo Brgy Management\obj\Debug\net8.0-windows\Castillo Brgy Management.vbproj.CoreCompileInputs.cache
+C:\My Codes\Vb.net codes\Castillo Brgy Management\Castillo Brgy Management\obj\Debug\net8.0-windows\Castillo Brgy Management.dll
+C:\My Codes\Vb.net codes\Castillo Brgy Management\Castillo Brgy Management\obj\Debug\net8.0-windows\refint\Castillo Brgy Management.dll
+C:\My Codes\Vb.net codes\Castillo Brgy Management\Castillo Brgy Management\obj\Debug\net8.0-windows\Castillo Brgy Management.pdb
+C:\My Codes\Vb.net codes\Castillo Brgy Management\Castillo Brgy Management\obj\Debug\net8.0-windows\Castillo Brgy Management.genruntimeconfig.cache
+C:\My Codes\Vb.net codes\Castillo Brgy Management\Castillo Brgy Management\obj\Debug\net8.0-windows\ref\Castillo Brgy Management.dll
+C:\My Codes\Vb.net codes\Castillo Brgy Management\Castillo Brgy Management\obj\Debug\net8.0-windows\Castillo_Brgy_Management.Form2.resources
+C:\My Codes\Vb.net codes\Castillo Brgy Management\Castillo Brgy Management\obj\Debug\net8.0-windows\Castillo_Brgy_Management.Form3.resources
+C:\My Codes\Vb.net codes\Castillo Brgy Management\Castillo Brgy Management\obj\Debug\net8.0-windows\Castillo_Brgy_Management.Form4.resources
+C:\My Codes\Vb.net codes\Castillo Brgy Management\Castillo Brgy Management\obj\Debug\net8.0-windows\Castillo_Brgy_Management.Form5.resources
+C:\My Codes\Vb.net codes\Castillo Brgy Management\Castillo Brgy Management\obj\Debug\net8.0-windows\Castillo_Brgy_Management.Form6.resources

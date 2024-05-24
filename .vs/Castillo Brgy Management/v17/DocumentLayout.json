@@ -1,0 +1,169 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\My Codes\\Vb.net codes\\Castillo Brgy Management\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B060D9EB-7F13-4C42-80F6-779E61A4BF58}|Castillo Brgy Management\\Castillo Brgy Management.vbproj|c:\\my codes\\vb.net codes\\castillo brgy management\\castillo brgy management\\form6.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{B060D9EB-7F13-4C42-80F6-779E61A4BF58}|Castillo Brgy Management\\Castillo Brgy Management.vbproj|solutionrelative:castillo brgy management\\form6.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B060D9EB-7F13-4C42-80F6-779E61A4BF58}|Castillo Brgy Management\\Castillo Brgy Management.vbproj|c:\\my codes\\vb.net codes\\castillo brgy management\\castillo brgy management\\form6.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{B060D9EB-7F13-4C42-80F6-779E61A4BF58}|Castillo Brgy Management\\Castillo Brgy Management.vbproj|solutionrelative:castillo brgy management\\form6.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B060D9EB-7F13-4C42-80F6-779E61A4BF58}|Castillo Brgy Management\\Castillo Brgy Management.vbproj|c:\\my codes\\vb.net codes\\castillo brgy management\\castillo brgy management\\form2.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{B060D9EB-7F13-4C42-80F6-779E61A4BF58}|Castillo Brgy Management\\Castillo Brgy Management.vbproj|solutionrelative:castillo brgy management\\form2.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B060D9EB-7F13-4C42-80F6-779E61A4BF58}|Castillo Brgy Management\\Castillo Brgy Management.vbproj|c:\\my codes\\vb.net codes\\castillo brgy management\\castillo brgy management\\form5.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{B060D9EB-7F13-4C42-80F6-779E61A4BF58}|Castillo Brgy Management\\Castillo Brgy Management.vbproj|solutionrelative:castillo brgy management\\form5.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B060D9EB-7F13-4C42-80F6-779E61A4BF58}|Castillo Brgy Management\\Castillo Brgy Management.vbproj|c:\\my codes\\vb.net codes\\castillo brgy management\\castillo brgy management\\form5.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{B060D9EB-7F13-4C42-80F6-779E61A4BF58}|Castillo Brgy Management\\Castillo Brgy Management.vbproj|solutionrelative:castillo brgy management\\form5.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B060D9EB-7F13-4C42-80F6-779E61A4BF58}|Castillo Brgy Management\\Castillo Brgy Management.vbproj|c:\\my codes\\vb.net codes\\castillo brgy management\\castillo brgy management\\form4.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{B060D9EB-7F13-4C42-80F6-779E61A4BF58}|Castillo Brgy Management\\Castillo Brgy Management.vbproj|solutionrelative:castillo brgy management\\form4.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B060D9EB-7F13-4C42-80F6-779E61A4BF58}|Castillo Brgy Management\\Castillo Brgy Management.vbproj|c:\\my codes\\vb.net codes\\castillo brgy management\\castillo brgy management\\form3.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{B060D9EB-7F13-4C42-80F6-779E61A4BF58}|Castillo Brgy Management\\Castillo Brgy Management.vbproj|solutionrelative:castillo brgy management\\form3.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B060D9EB-7F13-4C42-80F6-779E61A4BF58}|Castillo Brgy Management\\Castillo Brgy Management.vbproj|c:\\my codes\\vb.net codes\\castillo brgy management\\castillo brgy management\\form2.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{B060D9EB-7F13-4C42-80F6-779E61A4BF58}|Castillo Brgy Management\\Castillo Brgy Management.vbproj|solutionrelative:castillo brgy management\\form2.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B060D9EB-7F13-4C42-80F6-779E61A4BF58}|Castillo Brgy Management\\Castillo Brgy Management.vbproj|c:\\my codes\\vb.net codes\\castillo brgy management\\castillo brgy management\\form1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{B060D9EB-7F13-4C42-80F6-779E61A4BF58}|Castillo Brgy Management\\Castillo Brgy Management.vbproj|solutionrelative:castillo brgy management\\form1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form6.vb",
+              "DocumentMoniker": "C:\\My Codes\\Vb.net codes\\Castillo Brgy Management\\Castillo Brgy Management\\Form6.vb",
+              "RelativeDocumentMoniker": "Castillo Brgy Management\\Form6.vb",
+              "ToolTip": "C:\\My Codes\\Vb.net codes\\Castillo Brgy Management\\Castillo Brgy Management\\Form6.vb",
+              "RelativeToolTip": "Castillo Brgy Management\\Form6.vb",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACIAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-05-22T18:27:17.567Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form2.vb [Design]",
+              "DocumentMoniker": "C:\\My Codes\\Vb.net codes\\Castillo Brgy Management\\Castillo Brgy Management\\Form2.vb",
+              "RelativeDocumentMoniker": "Castillo Brgy Management\\Form2.vb",
+              "ToolTip": "C:\\My Codes\\Vb.net codes\\Castillo Brgy Management\\Castillo Brgy Management\\Form2.vb [Design]",
+              "RelativeToolTip": "Castillo Brgy Management\\Form2.vb [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-05-22T18:12:42.783Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form6.vb [Design]",
+              "DocumentMoniker": "C:\\My Codes\\Vb.net codes\\Castillo Brgy Management\\Castillo Brgy Management\\Form6.vb",
+              "RelativeDocumentMoniker": "Castillo Brgy Management\\Form6.vb",
+              "ToolTip": "C:\\My Codes\\Vb.net codes\\Castillo Brgy Management\\Castillo Brgy Management\\Form6.vb [Design]",
+              "RelativeToolTip": "Castillo Brgy Management\\Form6.vb [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-05-22T18:05:25.001Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Form4.vb [Design]",
+              "DocumentMoniker": "C:\\My Codes\\Vb.net codes\\Castillo Brgy Management\\Castillo Brgy Management\\Form4.vb",
+              "RelativeDocumentMoniker": "Castillo Brgy Management\\Form4.vb",
+              "ToolTip": "C:\\My Codes\\Vb.net codes\\Castillo Brgy Management\\Castillo Brgy Management\\Form4.vb [Design]",
+              "RelativeToolTip": "Castillo Brgy Management\\Form4.vb [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-05-22T18:12:45.83Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Form5.vb",
+              "DocumentMoniker": "C:\\My Codes\\Vb.net codes\\Castillo Brgy Management\\Castillo Brgy Management\\Form5.vb",
+              "RelativeDocumentMoniker": "Castillo Brgy Management\\Form5.vb",
+              "ToolTip": "C:\\My Codes\\Vb.net codes\\Castillo Brgy Management\\Castillo Brgy Management\\Form5.vb",
+              "RelativeToolTip": "Castillo Brgy Management\\Form5.vb",
+              "ViewState": "AQIAAA0AAAAAAAAAAAAewB0AAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-05-22T18:26:11.174Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Form3.vb [Design]",
+              "DocumentMoniker": "C:\\My Codes\\Vb.net codes\\Castillo Brgy Management\\Castillo Brgy Management\\Form3.vb",
+              "RelativeDocumentMoniker": "Castillo Brgy Management\\Form3.vb",
+              "ToolTip": "C:\\My Codes\\Vb.net codes\\Castillo Brgy Management\\Castillo Brgy Management\\Form3.vb [Design]",
+              "RelativeToolTip": "Castillo Brgy Management\\Form3.vb [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-05-22T18:12:43.988Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Form5.vb [Design]",
+              "DocumentMoniker": "C:\\My Codes\\Vb.net codes\\Castillo Brgy Management\\Castillo Brgy Management\\Form5.vb",
+              "RelativeDocumentMoniker": "Castillo Brgy Management\\Form5.vb",
+              "ToolTip": "C:\\My Codes\\Vb.net codes\\Castillo Brgy Management\\Castillo Brgy Management\\Form5.vb [Design]",
+              "RelativeToolTip": "Castillo Brgy Management\\Form5.vb [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-05-22T18:12:47.173Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Form2.vb",
+              "DocumentMoniker": "C:\\My Codes\\Vb.net codes\\Castillo Brgy Management\\Castillo Brgy Management\\Form2.vb",
+              "RelativeDocumentMoniker": "Castillo Brgy Management\\Form2.vb",
+              "ToolTip": "C:\\My Codes\\Vb.net codes\\Castillo Brgy Management\\Castillo Brgy Management\\Form2.vb",
+              "RelativeToolTip": "Castillo Brgy Management\\Form2.vb",
+              "ViewState": "AQIAABkAAAAAAAAAAAD4vygAAAAGAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-05-22T18:18:02.668Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Form1.vb [Design]",
+              "DocumentMoniker": "C:\\My Codes\\Vb.net codes\\Castillo Brgy Management\\Castillo Brgy Management\\Form1.vb",
+              "RelativeDocumentMoniker": "Castillo Brgy Management\\Form1.vb",
+              "ToolTip": "C:\\My Codes\\Vb.net codes\\Castillo Brgy Management\\Castillo Brgy Management\\Form1.vb [Design]",
+              "RelativeToolTip": "Castillo Brgy Management\\Form1.vb [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-05-22T18:09:26.873Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
